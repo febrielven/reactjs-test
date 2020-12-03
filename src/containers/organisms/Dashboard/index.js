@@ -1,9 +1,9 @@
 import React from 'react';
 import { Container, Row, Col, Form } from 'react-bootstrap';
-import CardItem from '../components/CardItem';
-import SlideBanner from '../components/SlideBanner';
+import CardItem from '../../../components/molecules/CardItem';
+import SlideBanner from '../../../components/molecules/SlideBanner';
 
-import { DataDashboard } from '../dummy/data';
+import { DataDashboard } from '../../../assets/dummy';
 
 export default function Dashboard() {
     return (

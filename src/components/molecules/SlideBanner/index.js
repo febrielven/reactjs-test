@@ -1,6 +1,6 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
-import {banner} from '../assets'
+import {banner} from '../../../assets/images'
 
 export default function SlideBanner() {
   return (
